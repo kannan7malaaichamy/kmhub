@@ -1,0 +1,19 @@
+<correspondence>
+	<companyName>STATE STREET</companyName>
+	<templateID>SS_CL_LetterTemplate_6798</templateID>
+	<customerID>CU6832738</customerID>
+	<fullName>Kannan Malaichamy</fullName>
+	<addressLine1>9939 Sunset BLVD </addressLine1> 
+	<addressLine2>Main Road </addressLine2> 
+	<addressLine3>Chicago</addressLine3> 
+	<addressLine4>USA</addressLine4> 
+	<addressLine5>452678</addressLine5> 
+	<state>OHIO</state>
+	<currentDate>01-04-2020</currentDate>
+	<shortName>Kannan</shortName> 
+	<accountNumber>DF87947893</accountNumber>
+	<balanceDate>04/05/2020</balanceDate>
+	<balanceAmount>$ 124.78</balanceAmount>
+	<expiryDate>09/06/2020</expiryDate>
+	<operatorName>Jack Dawson</operatorName>
+</correspondence>
