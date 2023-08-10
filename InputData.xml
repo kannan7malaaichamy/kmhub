@@ -1,0 +1,29 @@
+<?xm1 version="1.0" encoding="utf-8"?>
+<customers>	
+	<customer>
+		<OurRef>WS&#47;C&#47;WPP&#47;NEWBUS&#47;</OurRef>
+		<YourRef></YourRef>
+		<Telephone>0345078686</Telephone>
+		<PrintDate>31 January 2023</PrintDate>
+		<Name>Robert Robertson</Name>
+		<AddressLine1>1234 NW Bobcat Lane</AddressLine1>
+		<AddressLine2>St. Robert</AddressLine2>
+		<City>Kingston</City>
+		<State>New York</State>
+		<ZipCode>12401</ZipCode>
+		<GroupName></GroupName>
+		<GroupId></GroupId>
+		<ArrangementNumber></ArrangementNumber>
+		<Telephone2>02920432372</Telephone2>
+		<PlanName></PlanName>
+		<MemberName></MemberName>
+		<Retirementage>66</Retirementage>
+		<FinancialAdviser>Direct</FinancialAdviser>
+		<AgeNextBirthday>57</AgeNextBirthday>
+		<MonthlyContribution>£341.66</MonthlyContribution>
+		<MonthlyCost>£273.33</MonthlyCost>
+		<Emp1MonthlyContribution>£205.00</Emp1MonthlyContribution>
+		<TotalMonthlyContribution>£546.66</TotalMonthlyContribution>
+		<EffectiveDate>1 January2023</EffectiveDate> 
+	</customer>
+<customers>
