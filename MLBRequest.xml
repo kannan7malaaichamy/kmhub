@@ -1,0 +1,145 @@
+<kits Id="89">
+<detalhes>
+<kit Id="885673">
+<enderecos>
+<endereco Id_Endereco="905376" Nm_mensagem="" Owner="Segurado" Tipo="1" Nome="JOAO WILLAMS DA SILVA" Nm_endereco="CJ RESIDENCIAL JACINTA ANDRADE  QD CS" Nm_complemento="" Nr_endereco="ND" Nm_bairro="STA MARIA DA CODIPE" Nm_cidade="TERESINA" Nm_estado="PI" Nm_cep="64013-609" />
+<endereco Id_Endereco="905377" Nm_mensagem="" Owner="Estipulante" Tipo="" Nome="GMAC ADMINISTRADORA DE CONSORCIOS LTDA" Nm_endereco="Avenida Indianópolis 3096" Nm_complemento="" Nr_endereco="" Nm_bairro="Planalto Paulista" Nm_cidade="São Paulo" Nm_estado="SP" Nm_cep="04062003" />
+</enderecos>
+<documentos>
+<documento Tipo="1" Layout="1"><XML><certificado Cd_proposta="" Vl_pro_labore="0,00" Nr_cnpj_sub_estipulante="" Nr_cnpj_estipulante="59.274.605/0001-13" Nr_apolice="77.0001575          " Nr_apolice_secundario="" Cd_produto="629" Cd_ramo="77" Cd_plano="8511" Nm_ramo="Prestamistas" Nr_processo_susep="15414.001441/2008-08" Nm_plano=" " Dt_ini_vigencia="12/06/2015" Dt_fim_vigencia="11/06/2016" Dt_emissao="01/07/2015" Nm_indicador="IPCA Acumulado (últimos 12 meses)" Nm_period_reajuste="Anual" Pe_reajuste="" Dt_reajuste="" Nm_produto="Seguro Chevrolet Plus" Nr_certificado="77.01575.957571.0000118" Nr_certificado_secundario="" Dt_ini_primeira_vigencia="6/17/2015 12:00:00 AM" Nm_motivo_agravamento="" Nm_end_funcional1="" Nm_instituidora="GMAC ADMINISTRADORA DE CONSORCIOS LTDA                      " Nr_cnpj_instituidora="59.274.605/0001-13" Nm_administradora="Metropolitan Life Seguros e Previdência Privada S/A." Nm_endereco_estipulante="Avenida Indianópolis 3096 - Planalto Paulista - São Paulo / SP - 04062-003" Nm_endereco_sub_estipulante="Avenida Indianópolis 3096 - Planalto Paulista - São Paulo / SP - 04062-003" Nm_cep_estipulante="04062003" Nm_cep_sub_estipulante="04062003">
+<coberturas>
+<cobertura Vl_premio_cobertura="196,63" Vl_iof="0,75" Nm_ramo="77 - Prestamistas" Cd_cobertura_com="36" Nm_cob_contabil="Morte" Nm_cob_comercial="Morte                                                       " Cd_plano="8511" Dt_contratacao="6/12/2015 12:00:00 AM" Dt_inicio_vigencia="6/12/2015 12:00:00 AM" Nr_diarias="" Pe_multiplo_basica="" Dv_cobertura_basica="S" Vl_capital_titular="R$ 28.630,27" Vl_capital_conjuge="Não contratada " Vl_capital_filhos="Não contratada " Nr_ordem_apresentacao="" Nm_msg_franquia="Não há" Nm_msg_carencia="Não há" Nm_categoria_profissional="Todas" Nm_limite_indenizacao="Pagamento do Saldo Devedor do Financiamento Limitado à R$ [Vl_capital_maximo]" />
+<cobertura Vl_premio_cobertura="39,33" Vl_iof="0,15" Nm_ramo="77 - Prestamistas" Cd_cobertura_com="86" Nm_cob_contabil="Invalidez Permanente Total por Acidente" Nm_cob_comercial="Invalidez Permanente Total por Acidente                     " Cd_plano="8511" Dt_contratacao="6/12/2015 12:00:00 AM" Dt_inicio_vigencia="6/12/2015 12:00:00 AM" Nr_diarias="" Pe_multiplo_basica="" Dv_cobertura_basica="N" Vl_capital_titular="R$ 28.630,27" Vl_capital_conjuge="Não contratada " Vl_capital_filhos="Não contratada " Nr_ordem_apresentacao="" Nm_msg_franquia="Não há" Nm_msg_carencia="Não há" Nm_categoria_profissional="Todas" Nm_limite_indenizacao="Pagamento do Saldo Devedor do Financiamento Limitado à R$ [Vl_capital_maximo]" />
+<cobertura Vl_premio_cobertura="668,53" Vl_iof="2,54" Nm_ramo="" Cd_cobertura_com="191" Nm_cob_contabil="Desemprego Involuntário" Nm_cob_comercial="Desemprego Involuntário                                     " Cd_plano="8511" Dt_contratacao="6/12/2015 12:00:00 AM" Dt_inicio_vigencia="6/12/2015 12:00:00 AM" Nr_diarias="" Pe_multiplo_basica="" Dv_cobertura_basica="N" Vl_capital_titular="R$ 1.119,73" Vl_capital_conjuge="Não contratada " Vl_capital_filhos="Não contratada " Nr_ordem_apresentacao="" Nm_msg_franquia="Não há" Nm_msg_carencia="30 dias" Nm_categoria_profissional="Profissionais assalariados com vínculo empregatício mínimo de 12 meses inimterrupto em regime CLT (para um mesmo empregador)" Nm_limite_indenizacao="Pagamento de até 4 parcelas do financiamento, limitadas à R$ [Vl_capital_maximo] cada parcela" />
+<cobertura Vl_premio_cobertura="78,65" Vl_iof="0,30" Nm_ramo="" Cd_cobertura_com="219" Nm_cob_contabil="Incapacidade Física Total e Temporaria" Nm_cob_comercial="Incapacidade Física Total e Temporaria                      " Cd_plano="8511" Dt_contratacao="6/12/2015 12:00:00 AM" Dt_inicio_vigencia="6/12/2015 12:00:00 AM" Nr_diarias="" Pe_multiplo_basica="" Dv_cobertura_basica="N" Vl_capital_titular="R$ 1.119,73" Vl_capital_conjuge="Não contratada " Vl_capital_filhos="Não contratada " Nr_ordem_apresentacao="" Nm_msg_franquia="15 dias" Nm_msg_carencia="Não há" Nm_categoria_profissional="Profissionais Liberais e/ou Autônomos Regulamentados devidamente comprovado" Nm_limite_indenizacao="Pagamento de até 4 parcelas do financiamento, limitadas à R$ [Vl_capital_maximo] cada parcela" />
+</coberturas>
+<assistencias />
+<beneficiarios mensagem_padrao="Conforme legislação vigente">
+<beneficiario Nm_beneficiario="" Dt_nascimento="" Nm_parentesco="" Nr_cpf_beneficiario="" Pe_participacao="" />
+</beneficiarios>
+<capitalizacoes>
+<capitalizacao Nr_qtd_sorteio="1" Vl_capital="R$ 10.000,00" Nm_ext_capital="Mensal" Nr_sorte="666  " />
+</capitalizacoes>
+<mensagens>
+<mensagem Tp_mensagem="15414.900876/2013-96" Nr_ordem_apresentacao="1" Ds_mensagem="03.558.096/0001-04" />
+<mensagem Tp_mensagem="TP_MSG_1" Nr_ordem_apresentacao="1" Ds_mensagem="SUSEP – Superintendência de Seguros Privados – Autarquia Federal responsável pela fiscalização, normatização e controle dos mercados de seguro, previdência complementar aberta, capitalização, resseguro e corretagem de seguros. " /><mensagem Tp_mensagem="TP_MSG_2" Nr_ordem_apresentacao="1" Ds_mensagem="DDG: 0800 021 8484 - Atendimento exclusivo ao consumidor de todo o Brasil das 9:30 às 17:00. " /><mensagem Tp_mensagem="TP_MSG_3" Nr_ordem_apresentacao="1" Ds_mensagem="Em atendimento à Lei 12.741/12 informamos que incidem as alíquotas de 0,65% de PIS/Pasep e de 4% de COFINS sobre os prêmios de seguros, deduzidos do estabelecido em legislação específica. " />
+</mensagens>
+<corretor Nm_corretor="EBER VENTURA DOS SANTOS" Cd_susep_corretor="100501557" Nr_cnpj_cpf_corretor="59.407.071/0015-51" Nr_telefone_corretor="(11) 5505-5800"><endereco Owner="Corretor" Tipo="Endereço corretor" Nome="EBER VENTURA DOS SANTOS" Nm_endereco="Av. Eng Luis Carlos Berrini,1253 - 8 andar" Nm_complemento="" Nr_endereco="" Nm_bairro="Brooklin" Nm_cidade="Sao Paulo" Nm_estado="SP" Nm_cep="04571010" /></corretor><segurados><segurado Nm_tipo_vida="Titular" Nm_participante="JOAO WILLAMS DA SILVA                                       " Nr_cpf="891.108.113-20" Dt_nascimento="10/02/1980" Nr_rg="" Nr_matricula="00000000000000120366" Nr_carteirinha="" /></segurados><pagamento Nm_forma_pagto_parc="" Nr_dia_vcto="" Vl_iof="R$ 3,74" Vl_premio_liquido="R$ 983,13" Vl_premio_bruto="R$ 986,87" Nm_periodicidade_pagto="Mensal" />
+<parcelas Prazo_pagamento="12 meses" Nm_forma_pagto="Boleto"><parcela Nr_parcela="" Nr_endosso="" Dt_vencto="" Vl_parcela="" />
+</parcelas>
+<assinaturas>
+<assinatura Nm_imagem="ASS_DIR_1.JPG" />
+<assinatura Nm_imagem="ASS_DIR_2.JPG" />
+</assinaturas>
+<informacoes_sac>
+<SAC Tipo="Estipulante" Nm_telefone="" />
+</informacoes_sac>
+</certificado>
+</XML>
+<destinatarios>
+<destinatario Id_Endereco="905376" />
+</destinatarios>
+</documento>
+</documentos>
+</kit>
+<kit Id="885674">
+<enderecos>
+<endereco Id_Endereco="905378" Nm_mensagem="" Owner="Segurado" Tipo="1" Nome="PABLO NUNES GOMES" Nm_endereco="RUA CARLOS KRUGER" Nm_complemento="" Nr_endereco="ND" Nm_bairro="VILA NOVA" Nm_cidade="CAMAQUA" Nm_estado="RS" Nm_cep="96180-000" />
+<endereco Id_Endereco="905379" Nm_mensagem="" Owner="Estipulante" Tipo="" Nome="GMAC ADMINISTRADORA DE CONSORCIOS LTDA" Nm_endereco="Avenida Indianópolis 3096" Nm_complemento="" Nr_endereco="" Nm_bairro="Planalto Paulista" Nm_cidade="São Paulo" Nm_estado="SP" Nm_cep="04062003" />
+</enderecos>
+<documentos>
+<documento Tipo="1" Layout="1">
+<XML>
+<certificado Cd_proposta="" Vl_pro_labore="0,00" Nr_cnpj_sub_estipulante="" Nr_cnpj_estipulante="59.274.605/0001-13" Nr_apolice="77.0001575          " Nr_apolice_secundario="" Cd_produto="629" Cd_ramo="77" Cd_plano="8511" Nm_ramo="Prestamistas" Nr_processo_susep="15414.001441/2008-08" Nm_plano=" " Dt_ini_vigencia="11/06/2015" Dt_fim_vigencia="10/06/2016" Dt_emissao="01/07/2015" Nm_indicador="IPCA Acumulado (últimos 12 meses)" Nm_period_reajuste="Anual" Pe_reajuste="" Dt_reajuste="" Nm_produto="Seguro Chevrolet Plus" Nr_certificado="77.01575.957571.0000123" Nr_certificado_secundario="" Dt_ini_primeira_vigencia="6/17/2015 12:00:00 AM" Nm_motivo_agravamento="" Nm_end_funcional1="" Nm_instituidora="GMAC ADMINISTRADORA DE CONSORCIOS LTDA                      " Nr_cnpj_instituidora="59.274.605/0001-13" Nm_administradora="Metropolitan Life Seguros e Previdência Privada S/A." Nm_endereco_estipulante="Avenida Indianópolis 3096 - Planalto Paulista - São Paulo / SP - 04062-003" Nm_endereco_sub_estipulante="Avenida Indianópolis 3096 - Planalto Paulista - São Paulo / SP - 04062-003" Nm_cep_estipulante="04062003" Nm_cep_sub_estipulante="04062003">
+<coberturas>
+<cobertura Vl_premio_cobertura="90,35" Vl_iof="0,34" Nm_ramo="77 - Prestamistas" Cd_cobertura_com="36" Nm_cob_contabil="Morte" Nm_cob_comercial="Morte                                                       " Cd_plano="8511" Dt_contratacao="6/11/2015 12:00:00 AM" Dt_inicio_vigencia="6/11/2015 12:00:00 AM" Nr_diarias="" Pe_multiplo_basica="" Dv_cobertura_basica="S" Vl_capital_titular="R$ 13.155,51" Vl_capital_conjuge="Não contratada " Vl_capital_filhos="Não contratada " Nr_ordem_apresentacao="" Nm_msg_franquia="Não há" Nm_msg_carencia="Não há" Nm_categoria_profissional="Todas" Nm_limite_indenizacao="Pagamento do Saldo Devedor do Financiamento Limitado à R$ [Vl_capital_maximo]" />
+<cobertura Vl_premio_cobertura="18,07" Vl_iof="0,07" Nm_ramo="77 - Prestamistas" Cd_cobertura_com="86" Nm_cob_contabil="Invalidez Permanente Total por Acidente" Nm_cob_comercial="Invalidez Permanente Total por Acidente                     " Cd_plano="8511" Dt_contratacao="6/11/2015 12:00:00 AM" Dt_inicio_vigencia="6/11/2015 12:00:00 AM" Nr_diarias="" Pe_multiplo_basica="" Dv_cobertura_basica="N" Vl_capital_titular="R$ 13.155,51" Vl_capital_conjuge="Não contratada " Vl_capital_filhos="Não contratada " Nr_ordem_apresentacao="" Nm_msg_franquia="Não há" Nm_msg_carencia="Não há" Nm_categoria_profissional="Todas" Nm_limite_indenizacao="Pagamento do Saldo Devedor do Financiamento Limitado à R$ [Vl_capital_maximo]" />
+<cobertura Vl_premio_cobertura="307,19" Vl_iof="1,17" Nm_ramo="" Cd_cobertura_com="191" Nm_cob_contabil="Desemprego Involuntário" Nm_cob_comercial="Desemprego Involuntário                                     " Cd_plano="8511" Dt_contratacao="6/11/2015 12:00:00 AM" Dt_inicio_vigencia="6/11/2015 12:00:00 AM" Nr_diarias="" Pe_multiplo_basica="" Dv_cobertura_basica="N" Vl_capital_titular="R$ 1.118,74" Vl_capital_conjuge="Não contratada " Vl_capital_filhos="Não contratada " Nr_ordem_apresentacao="" Nm_msg_franquia="Não há" Nm_msg_carencia="30 dias" Nm_categoria_profissional="Profissionais assalariados com vínculo empregatício mínimo de 12 meses inimterrupto em regime CLT (para um mesmo empregador)" Nm_limite_indenizacao="Pagamento de até 4 parcelas do financiamento, limitadas à R$ [Vl_capital_maximo] cada parcela" />
+<cobertura Vl_premio_cobertura="36,14" Vl_iof="0,14" Nm_ramo="" Cd_cobertura_com="219" Nm_cob_contabil="Incapacidade Física Total e Temporaria" Nm_cob_comercial="Incapacidade Física Total e Temporaria                      " Cd_plano="8511" Dt_contratacao="6/11/2015 12:00:00 AM" Dt_inicio_vigencia="6/11/2015 12:00:00 AM" Nr_diarias="" Pe_multiplo_basica="" Dv_cobertura_basica="N" Vl_capital_titular="R$ 1.118,74" Vl_capital_conjuge="Não contratada " Vl_capital_filhos="Não contratada " Nr_ordem_apresentacao="" Nm_msg_franquia="15 dias" Nm_msg_carencia="Não há" Nm_categoria_profissional="Profissionais Liberais e/ou Autônomos Regulamentados devidamente comprovado" Nm_limite_indenizacao="Pagamento de até 4 parcelas do financiamento, limitadas à R$ [Vl_capital_maximo] cada parcela" />
+</coberturas>
+<assistencias />
+<beneficiarios mensagem_padrao="Conforme legislação vigente">
+<beneficiario Nm_beneficiario="" Dt_nascimento="" Nm_parentesco="" Nr_cpf_beneficiario="" Pe_participacao="" />
+</beneficiarios>
+<capitalizacoes>
+<capitalizacao Nr_qtd_sorteio="1" Vl_capital="R$ 10.000,00" Nm_ext_capital="Mensal" Nr_sorte="666  " />
+</capitalizacoes>
+<mensagens>
+<mensagem Tp_mensagem="15414.900876/2013-96" Nr_ordem_apresentacao="1" Ds_mensagem="03.558.096/0001-04" />
+<mensagem Tp_mensagem="TP_MSG_1" Nr_ordem_apresentacao="1" Ds_mensagem="SUSEP – Superintendência de Seguros Privados – Autarquia Federal responsável pela fiscalização, normatização e controle dos mercados de seguro, previdência complementar aberta, capitalização, resseguro e corretagem de seguros. " />
+<mensagem Tp_mensagem="TP_MSG_2" Nr_ordem_apresentacao="1" Ds_mensagem="DDG: 0800 021 8484 - Atendimento exclusivo ao consumidor de todo o Brasil das 9:30 às 17:00. " />
+<mensagem Tp_mensagem="TP_MSG_3" Nr_ordem_apresentacao="1" Ds_mensagem="Em atendimento à Lei 12.741/12 informamos que incidem as alíquotas de 0,65% de PIS/Pasep e de 4% de COFINS sobre os prêmios de seguros, deduzidos do estabelecido em legislação específica. " />
+</mensagens>
+<corretor Nm_corretor="EBER VENTURA DOS SANTOS" Cd_susep_corretor="100501557" Nr_cnpj_cpf_corretor="59.407.071/0015-51" Nr_telefone_corretor="(11) 5505-5800"><endereco Owner="Corretor" Tipo="Endereço corretor" Nome="EBER VENTURA DOS SANTOS" Nm_endereco="Av. Eng Luis Carlos Berrini,1253 - 8 andar" Nm_complemento="" Nr_endereco="" Nm_bairro="Brooklin" Nm_cidade="Sao Paulo" Nm_estado="SP" Nm_cep="04571010" />
+</corretor>
+<segurados>
+<segurado Nm_tipo_vida="Titular" Nm_participante="PABLO NUNES GOMES                                           " Nr_cpf="910.094.050-04" Dt_nascimento="25/03/1977" Nr_rg="" Nr_matricula="00000000000000120367" Nr_carteirinha="" />
+</segurados><pagamento Nm_forma_pagto_parc="" Nr_dia_vcto="" Vl_iof="R$ 1,72" Vl_premio_liquido="R$ 451,74" Vl_premio_bruto="R$ 453,46" Nm_periodicidade_pagto="Mensal" />
+<parcelas Prazo_pagamento="12 meses" Nm_forma_pagto="Boleto"><parcela Nr_parcela="" Nr_endosso="" Dt_vencto="" Vl_parcela="" />
+</parcelas>
+<assinaturas>
+<assinatura Nm_imagem="ASS_DIR_1.JPG" />
+<assinatura Nm_imagem="ASS_DIR_2.JPG" />
+</assinaturas>
+<informacoes_sac>
+<SAC Tipo="Estipulante" Nm_telefone="" />
+</informacoes_sac>
+</certificado>
+</XML>
+<destinatarios>
+<destinatario Id_Endereco="905378" />
+</destinatarios>
+</documento></documentos>
+</kit><kit Id="885675">
+<enderecos><endereco Id_Endereco="905380" Nm_mensagem="" Owner="Segurado" Tipo="1" Nome="JOAO TAVARES DA SILVA SOBRINHO" Nm_endereco="R B" Nm_complemento="" Nr_endereco="ND" Nm_bairro="BARRA DE JANGADA" Nm_cidade="JABOATAO DOS GUARARAPES" Nm_estado="PE" Nm_cep="54470-585" /><endereco Id_Endereco="905381" Nm_mensagem="" Owner="Estipulante" Tipo="" Nome="GMAC ADMINISTRADORA DE CONSORCIOS LTDA" Nm_endereco="Avenida Indianópolis 3096" Nm_complemento="" Nr_endereco="" Nm_bairro="Planalto Paulista" Nm_cidade="São Paulo" Nm_estado="SP" Nm_cep="04062003" />
+</enderecos>
+<documentos>
+<documento Tipo="1" Layout="1">
+<XML>
+<certificado Cd_proposta="" Vl_pro_labore="0,00" Nr_cnpj_sub_estipulante="" Nr_cnpj_estipulante="59.274.605/0001-13" Nr_apolice="77.0001575          " Nr_apolice_secundario="" Cd_produto="629" Cd_ramo="77" Cd_plano="8511" Nm_ramo="Prestamistas" Nr_processo_susep="15414.001441/2008-08" Nm_plano=" " Dt_ini_vigencia="10/06/2015" Dt_fim_vigencia="09/06/2016" Dt_emissao="01/07/2015" Nm_indicador="IPCA Acumulado (últimos 12 meses)" Nm_period_reajuste="Anual" Pe_reajuste="" Dt_reajuste="" Nm_produto="Seguro Chevrolet Plus" Nr_certificado="77.01575.957571.0000119" Nr_certificado_secundario="" Dt_ini_primeira_vigencia="6/17/2015 12:00:00 AM" Nm_motivo_agravamento="" Nm_end_funcional1="" Nm_instituidora="GMAC ADMINISTRADORA DE CONSORCIOS LTDA                      " Nr_cnpj_instituidora="59.274.605/0001-13" Nm_administradora="Metropolitan Life Seguros e Previdência Privada S/A." Nm_endereco_estipulante="Avenida Indianópolis 3096 - Planalto Paulista - São Paulo / SP - 04062-003" Nm_endereco_sub_estipulante="Avenida Indianópolis 3096 - Planalto Paulista - São Paulo / SP - 04062-003" Nm_cep_estipulante="04062003" Nm_cep_sub_estipulante="04062003">
+<coberturas>
+<cobertura Vl_premio_cobertura="158,33" Vl_iof="0,60" Nm_ramo="77 - Prestamistas" Cd_cobertura_com="36" Nm_cob_contabil="Morte" Nm_cob_comercial="Morte                                                       " Cd_plano="8511" Dt_contratacao="6/10/2015 12:00:00 AM" Dt_inicio_vigencia="6/10/2015 12:00:00 AM" Nr_diarias="" Pe_multiplo_basica="" Dv_cobertura_basica="S" Vl_capital_titular="R$ 23.054,68" Vl_capital_conjuge="Não contratada " Vl_capital_filhos="Não contratada " Nr_ordem_apresentacao="" Nm_msg_franquia="Não há" Nm_msg_carencia="Não há" Nm_categoria_profissional="Todas" Nm_limite_indenizacao="Pagamento do Saldo Devedor do Financiamento Limitado à R$ [Vl_capital_maximo]" />
+<cobertura Vl_premio_cobertura="31,67" Vl_iof="0,12" Nm_ramo="77 - Prestamistas" Cd_cobertura_com="86" Nm_cob_contabil="Invalidez Permanente Total por Acidente" Nm_cob_comercial="Invalidez Permanente Total por Acidente                     " Cd_plano="8511" Dt_contratacao="6/10/2015 12:00:00 AM" Dt_inicio_vigencia="6/10/2015 12:00:00 AM" Nr_diarias="" Pe_multiplo_basica="" Dv_cobertura_basica="N" Vl_capital_titular="R$ 23.054,68" Vl_capital_conjuge="Não contratada " Vl_capital_filhos="Não contratada " Nr_ordem_apresentacao="" Nm_msg_franquia="Não há" Nm_msg_carencia="Não há" Nm_categoria_profissional="Todas" Nm_limite_indenizacao="Pagamento do Saldo Devedor do Financiamento Limitado à R$ [Vl_capital_maximo]" />
+<cobertura Vl_premio_cobertura="538,34" Vl_iof="2,05" Nm_ramo="" Cd_cobertura_com="191" Nm_cob_contabil="Desemprego Involuntário" Nm_cob_comercial="Desemprego Involuntário                                     " Cd_plano="8511" Dt_contratacao="6/10/2015 12:00:00 AM" Dt_inicio_vigencia="6/10/2015 12:00:00 AM" Nr_diarias="" Pe_multiplo_basica="" Dv_cobertura_basica="N" Vl_capital_titular="R$ 825,36" Vl_capital_conjuge="Não contratada " Vl_capital_filhos="Não contratada " Nr_ordem_apresentacao="" Nm_msg_franquia="Não há" Nm_msg_carencia="30 dias" Nm_categoria_profissional="Profissionais assalariados com vínculo empregatício mínimo de 12 meses inimterrupto em regime CLT (para um mesmo empregador)" Nm_limite_indenizacao="Pagamento de até 4 parcelas do financiamento, limitadas à R$ [Vl_capital_maximo] cada parcela" />
+<cobertura Vl_premio_cobertura="63,33" Vl_iof="0,24" Nm_ramo="" Cd_cobertura_com="219" Nm_cob_contabil="Incapacidade Física Total e Temporaria" Nm_cob_comercial="Incapacidade Física Total e Temporaria                      " Cd_plano="8511" Dt_contratacao="6/10/2015 12:00:00 AM" Dt_inicio_vigencia="6/10/2015 12:00:00 AM" Nr_diarias="" Pe_multiplo_basica="" Dv_cobertura_basica="N" Vl_capital_titular="R$ 825,36" Vl_capital_conjuge="Não contratada " Vl_capital_filhos="Não contratada " Nr_ordem_apresentacao="" Nm_msg_franquia="15 dias" Nm_msg_carencia="Não há" Nm_categoria_profissional="Profissionais Liberais e/ou Autônomos Regulamentados devidamente comprovado" Nm_limite_indenizacao="Pagamento de até 4 parcelas do financiamento, limitadas à R$ [Vl_capital_maximo] cada parcela" />
+</coberturas>
+<assistencias />
+<beneficiarios mensagem_padrao="Conforme legislação vigente">
+<beneficiario Nm_beneficiario="" Dt_nascimento="" Nm_parentesco="" Nr_cpf_beneficiario="" Pe_participacao="" />
+</beneficiarios>
+<capitalizacoes>
+<capitalizacao Nr_qtd_sorteio="1" Vl_capital="R$ 10.000,00" Nm_ext_capital="Mensal" Nr_sorte="666  " />
+</capitalizacoes>
+<mensagens>
+<mensagem Tp_mensagem="15414.900876/2013-96" Nr_ordem_apresentacao="1" Ds_mensagem="03.558.096/0001-04" />
+<mensagem Tp_mensagem="TP_MSG_1" Nr_ordem_apresentacao="1" Ds_mensagem="SUSEP – Superintendência de Seguros Privados – Autarquia Federal responsável pela fiscalização, normatização e controle dos mercados de seguro, previdência complementar aberta, capitalização, resseguro e corretagem de seguros. " />
+<mensagem Tp_mensagem="TP_MSG_2" Nr_ordem_apresentacao="1" Ds_mensagem="DDG: 0800 021 8484 - Atendimento exclusivo ao consumidor de todo o Brasil das 9:30 às 17:00. " />
+<mensagem Tp_mensagem="TP_MSG_3" Nr_ordem_apresentacao="1" Ds_mensagem="Em atendimento à Lei 12.741/12 informamos que incidem as alíquotas de 0,65% de PIS/Pasep e de 4% de COFINS sobre os prêmios de seguros, deduzidos do estabelecido em legislação específica. " />
+</mensagens>
+<corretor Nm_corretor="EBER VENTURA DOS SANTOS" Cd_susep_corretor="100501557" Nr_cnpj_cpf_corretor="59.407.071/0015-51" Nr_telefone_corretor="(11) 5505-5800">
+<endereco Owner="Corretor" Tipo="Endereço corretor" Nome="EBER VENTURA DOS SANTOS" Nm_endereco="Av. Eng Luis Carlos Berrini,1253 - 8 andar" Nm_complemento="" Nr_endereco="" Nm_bairro="Brooklin" Nm_cidade="Sao Paulo" Nm_estado="SP" Nm_cep="04571010" />
+</corretor>
+<segurados>
+<segurado Nm_tipo_vida="Titular" Nm_participante="JOAO TAVARES DA SILVA SOBRINHO                              " Nr_cpf="112.983.218-08" Dt_nascimento="05/05/1968" Nr_rg="" Nr_matricula="00000000000000120368" Nr_carteirinha="" />
+</segurados>
+<pagamento Nm_forma_pagto_parc="" Nr_dia_vcto="" Vl_iof="R$ 3,01" Vl_premio_liquido="R$ 791,67" Vl_premio_bruto="R$ 794,68" Nm_periodicidade_pagto="Mensal" />
+<parcelas Prazo_pagamento="12 meses" Nm_forma_pagto="Boleto"><parcela Nr_parcela="" Nr_endosso="" Dt_vencto="" Vl_parcela="" />
+</parcelas>
+<assinaturas>
+<assinatura Nm_imagem="ASS_DIR_1.JPG" />
+<assinatura Nm_imagem="ASS_DIR_2.JPG" />
+</assinaturas>
+<informacoes_sac>
+<SAC Tipo="Estipulante" Nm_telefone="" />
+</informacoes_sac>
+</certificado>
+</XML>
+<destinatarios>
+<destinatario Id_Endereco="905380" />
+</destinatarios>
+</documento>
+</documentos>
+</kit>
+</detalhes>
+<footer><qtd_kits>33</qtd_kits></footer>
+</kits>
