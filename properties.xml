@@ -1,0 +1,51 @@
+<properties>
+	<comment>ezArchieve PARM</comment>
+	<watchdir>C:/ezComms_Runtime/input/watchdir/</watchdir>
+	<bucketname>publishing-platform</bucketname>
+	<filedir>C:/ezComms_Runtime/input/file/</filedir>
+	<jsonoutdir>C:/ezComms_Runtime/output/json/</jsonoutdir>
+	<pdfoutdir>C:/ezComms_Runtime/output/pdf/</pdfoutdir>
+	<htmloutdir>C:/ezComms_Runtime/output/html/</htmloutdir>
+	<docoutdir>C:/ezComms_Runtime/output/doc/</docoutdir>
+	<docxoutdirAudio></docxoutdirAudio>
+	<docxoutdirVideo></docxoutdirVideo>
+	<triggerFile></triggerFile>
+	<docxoutdirdigitalchannel>C:/ezComms_Runtime/output/docx/</docxoutdirdigitalchannel>
+	<docxoutdiraudio>C:/ezComms_Runtime/output/audio/docx/</docxoutdiraudio>
+	<pdfoutdiraudio>C:/ezComms_Runtime/output/audio/pdf/</pdfoutdiraudio>
+	<textoutdiraudio>C:/ezComms_Runtime/output/audio/text/</textoutdiraudio>
+	<digitaltemplatedir>C:/ezComms_Runtime/templates/digital/</digitaltemplatedir>
+	<audiotemplatedir>C:/ezComms_Runtime/templates/audio/</audiotemplatedir>
+	<videotemplatedir>C:/ezComms_Runtime/templates/video/</videotemplatedir>
+	<audiooutdir>C:/ezComms_Runtime/output/audio/</audiooutdir>
+	<videooutdir>C:/ezComms_Runtime/output/video/</videooutdir>
+	<videoprocessingdir>C:/ezComms_Runtime/output/docx/videoprocessing/</videoprocessingdir>
+	<configdir>C:/ezComms_Runtime/config/</configdir>
+	<resourcedir>C:/ezComms_Runtime/resource/</resourcedir>
+	<pdfoutputflag>true</pdfoutputflag>
+	<wordoutputflag>true</wordoutputflag>
+	<htmloutputflag>true</htmloutputflag>
+	<videooutputflag>true</videooutputflag>
+	<dotDoc>.doc</dotDoc>
+	<dotPdf>.pdf</dotPdf>
+	<dotDocx>.docx</dotDocx>
+	<dotHtml>.html</dotHtml>
+	<dotxml>.xml</dotxml>
+	<templateExtn>.docx</templateExtn>	
+	<audioExtn>.mp3</audioExtn>
+	<videoExtn>.mp4</videoExtn>
+	<processCompleteExtn>.completed</processCompleteExtn>
+	<processErrorExtn>.err</processErrorExtn>
+	<imageFileExtn>.png</imageFileExtn>
+	<xmlFileNameTag>templateID</xmlFileNameTag>
+	<LIBRE_OFFICE>C:/Program Files/LibreOffice/program/soffice.exe</LIBRE_OFFICE>
+	<errorPDFPath>C:/ezComms_Runtime/output/eDocs_error.pdf</errorPDFPath>
+	<pythonScriptName>C:/ezComms_Runtime/start.bat</pythonScriptName>
+	<grapthFolder>C:/ezComms_Runtime/output/graphs/default/</grapthFolder>
+	<audiotemplateExtn>.txt</audiotemplateExtn>
+	<grapthImageExtn>.png</grapthImageExtn>
+	<jsonExtn>.json</jsonExtn>
+	<sourcerestUrl>http://localhost:7080/api/templates/</sourcerestUrl>
+	<filenetURL></filenetURL>
+	<CErestUrl>http://localhost:7080/api/templates/</CErestUrl>
+</properties>
